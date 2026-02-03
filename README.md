@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 Working on MERN stack projects<br>🌱 Learning full-stack development & best practices<br>👯 Open to collaboration on beginner-friendly projects<br>💬 Ask me about JavaScript, React, Node.js<br>⚡ Fun fact: I learn faster by building real projects
+I am a BCA student actively working on MERN stack projects.
+Currently learning full-stack development by building real-world applications.
+
+Open to collaboration on beginner-friendly projects.
+Ask me about JavaScript, React, Express.js, MongoDB, Node.js.
+
 
 
 
